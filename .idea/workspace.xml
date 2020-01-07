@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfa38dfb-3572-4e68-9265-c665794d60b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W0oPLj48BmmOYF7pFrv7anTt5F" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="62c195a2-4e4d-4ab7-b671-ce30c97de067" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.283054" />
+    <property name="project.structure.side.proportion" value="0.2640523" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.test.bean" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.test.test" />
+      <module name="HibernateDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.29" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.29" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="HibernateDemo:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/HibernateDemo_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="HibernateDemo:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfa38dfb-3572-4e68-9265-c665794d60b9" name="Default Changelist" comment="" />
+      <created>1578295847952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578295847952</updated>
+      <workItem from="1578295852662" duration="8018000" />
+      <workItem from="1578358680336" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="87" key="#Project_Structure" timestamp="1578296449334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="87" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578296449334" />
+    <state x="489" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578296257181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="489" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578296257181" />
+    <state x="706" y="400" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1578296587658">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="706" y="400" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578296587658" />
+    <state x="630" y="0" width="675" height="888" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog" timestamp="1578296469434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="630" y="0" width="675" height="888" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578296469434" />
+    <state x="619" y="169" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1578296869532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="619" y="169" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578296869532" />
+    <state x="689" y="210" key="FileChooserDialogImpl" timestamp="1578296750289">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="210" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578296750289" />
+    <state width="1921" height="957" key="GridCell.Tab.0.bottom" timestamp="1578305274103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="957" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578305274103" />
+    <state width="1921" height="957" key="GridCell.Tab.0.center" timestamp="1578305274103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="957" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578305274103" />
+    <state width="1921" height="957" key="GridCell.Tab.0.left" timestamp="1578305274103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="957" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578305274103" />
+    <state width="1921" height="957" key="GridCell.Tab.0.right" timestamp="1578305274103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="957" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578305274103" />
+    <state x="255" y="157" width="1141" height="883" key="SettingsEditor" timestamp="1578298067148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="255" y="157" width="1141" height="883" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578298067148" />
+    <state x="571" y="292" key="com.intellij.ide.util.TipDialog" timestamp="1578358679385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="571" y="292" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578358679385" />
+    <state x="450" y="434" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578296867573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="450" y="434" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578296867573" />
+    <state x="627" y="223" key="extract.method.dialog" timestamp="1578304347483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="223" key="extract.method.dialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578304347483" />
+  </component>
+</project>

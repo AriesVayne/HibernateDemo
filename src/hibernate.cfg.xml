@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+    "-//Hibernate/Hibernate Configuration DTD//EN"
+    "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+    <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+    <property name="connection.url">jdbc:mysql://localhost:3306/test</property>
+    <property name="connection.username">root</property>
+    <property name="connection.password">root</property>
+    <!-- 指定连接池里最大连接数 -->
+    <property name="hibernate.c3p0.max_size">20</property>
+    <!-- 指定连接池里最小连接数 -->
+    <property name="hibernate.c3p0.min_size">1</property>
+    <!-- 指定连接池里连接的超时时长 -->
+    <property name="hibernate.c3p0.timeout">5000</property>
+    <!-- 指定数据库方言 -->
+    <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+    <!-- 根据需要自动创建数据表 -->
+    <property name="hbm2ddl.auto">update</property>
+    <!-- 显示Hibernate持久化操作所生成的SQL -->
+    <property name="show_sql">true</property>
+    <!-- 将SQL脚本进行格式化后再输出 -->
+    <property name="hibernate.format_sql">true</property>
+
+    <mapping class="com.test.bean.TUserEntity"/>
+    <!--由于此处映射的实体类文件是复合主键（注：单主键的表文件不会出现id class mapping的错误），并采用注解方式映射，
+    编译器在编译时不光反向生成Entity.hbm.xml,还会在hibernate.cfg.xml文件中生成mapping resource项，导致冲突出现
+    id class mapping的错误，因为需将mapping resource项注释掉-->
+    <mapping resource="TUserEntity.hbm.xml"/>
+
+  </session-factory>
+</hibernate-configuration>
